@@ -1,0 +1,3 @@
+logbar.jar
+org.eclipse.jgit.jar
+slf4.jar
